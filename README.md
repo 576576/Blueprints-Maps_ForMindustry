@@ -1,2 +1,3 @@
 # 576的Mindustry 蓝图/地图库
-收集了一些自制的Mindustry蓝图/地图.
+包含了一些自制/收集的Mindustry蓝图/地图.
+
